@@ -1,5 +1,6 @@
 # JATE
-
+[Visit the App](https://regi-jate.herokuapp.com/)
+![JATE-screenshot](https://user-images.githubusercontent.com/119711335/222844471-16b50d39-c65d-4bfc-adfc-2d6f2a3f49e0.png)
 A UTA Web Development Bootcamp challenge for unit 19, meant to test my understanding of Progressive Web Applications (PWA).
 
 ## Description
